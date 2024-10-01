@@ -33,5 +33,8 @@ public class propiedad {
 	public void setPosicion(int posicion) {
 		this.posicion = posicion;
 	}
-	
+	public int alquiler() {
+		int alquiler=0;
+		return alquiler;
+	}
 }
